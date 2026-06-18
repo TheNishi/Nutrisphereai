@@ -1,0 +1,10 @@
+{
+  "name": "nutrisphere-ai",
+  "version": "1.0.0",
+  "description": "Smart AI Fitness and Calorie Tracker",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server ./ -p 3000"
+  },
+  "dependencies": {}
+}
